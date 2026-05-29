@@ -1,2 +1,2 @@
-# mindustry-no-building-damage-penalty
+# No Building Damage Penalty
 Removes damage penalty
