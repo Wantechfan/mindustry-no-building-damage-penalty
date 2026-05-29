@@ -1,0 +1,7 @@
+name: "no-building-damage-penalty"
+displayName: "No Building Damage Penalty"
+auther: "WantechFan"
+description: "Removes building damage penalty"
+version: "0.1"
+hidden: true
+minGameVersion: "146"
