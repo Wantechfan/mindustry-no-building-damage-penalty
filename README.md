@@ -1,3 +1,5 @@
+![icon](icon.png)
+
 # No Building Damage Penalty
 [![Badge Discord]][Discord]
 
